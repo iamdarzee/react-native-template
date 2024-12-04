@@ -31,14 +31,14 @@ Run this command to create a new project with the template
 # 🏃‍♀️Running Your New App
 #### 📱iOS
 Take the following steps to run the application locally for iOS
-1. run `yarn install`
+1. run `npm install`
 2. navigate to the iOS folder using a terminal `cd ios && pod install` 
-3. run `yarn ios` at root
+3. run `npm ios` at root
 
 #### 📱Android 
 Take the following steps to run the application locally for iOS
-1. run `yarn install`
-2. run `yarn android`
+1. run `npm install`
+2. run `npm android`
 
 #### Notes
 If you run into any issues, please make sure your development environment is set-up with a fresh react native app.
